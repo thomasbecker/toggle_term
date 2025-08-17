@@ -152,6 +152,7 @@ fn parse_syntax(
                     "function" => SyntaxKind::Function,
                     "keyword.type" => SyntaxKind::KeywordType,
                     "type" => SyntaxKind::Type,
+                    "type.builtin" => SyntaxKind::Type,
                     "spell" => SyntaxKind::Spell,
                     "string" => SyntaxKind::String,
                     "number" => SyntaxKind::Number,
