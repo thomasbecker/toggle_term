@@ -66,6 +66,8 @@ terminal-based presentations, such as:
 - [Patat](https://github.com/jaspervdj/patat)
 - [mdp](https://github.com/visit1985/mdp)
 
+[Comparison of terminal presentation tools](/COMPARISON.md)
+
 If you're looking for a robust, feature-rich presentation tool, you may want to
 consider these alternatives.
 
